@@ -1,6 +1,6 @@
- # Hello, there I am Prajwol Lama 👋
+ ## Hello, there I am Prajwol Lama 👋
 
-**An anspiring Web and App Developer** 
+*An anspiring Web and App Developer*
 
 
 
