@@ -1,7 +1,7 @@
- Hello, there I am Prajwol Lama 👋
+ ### Hello, there I am Prajwol Lama 👋
 
 **An anspiring Web and App Developer** 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
