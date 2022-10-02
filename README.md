@@ -1,8 +1,6 @@
-### Hi there 👋
+ Hello, there I am Prajwol Lama 👋
 
-<!--
-**prajwol32547/prajwol32547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**An anspiring Web and App Developer** 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
