@@ -8,8 +8,9 @@
 </br>
 <h3>Language that I use :</h3>
 </br>
+<div class="cont" style="display:flex;">
 <img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwol32547&layout=compact&exclude_repo=github-readme-stats)"/>
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwol32547&theme=horizon"/>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwol32547&theme=horizon"/></div>
 
 <div class="container" style="display:flex;">
 <img style="margin:10px;" src="https://camo.githubusercontent.com/7d7b100e379663ee40a20989e6c61737e6396c1dafc3a7c6d2ada8d4447eb0e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465"/>
