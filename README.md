@@ -4,7 +4,7 @@
 
 <p align="left">My primary focus is on front end web development, however I have working knowledge of the Backend technologies and languages. I have worked on Mern Stack as well as PHP/ Laravel. I have a balanced logical and creative side which is a key feature to make any web and app polished, smooth, and secure.</p>
 
-<p align="left">Not only in the web, but I have also involved myself in cross-platform app development</p>
+<p align="left">Not only in the web, but I have also involved myself in cross-platform app development using Flutter</p>
 </br>
 <h3>Language that I use :</h3>
 </br>
