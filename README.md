@@ -12,7 +12,7 @@
 <img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwol32547&layout=compact&exclude_repo=github-readme-stats)"/>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwol32547&theme=horizon"/></div>
 
-<div class="container" style="display:flex;">
+<div class="container" style="display:flex; aspect-ratio:4:3">
 <img style="margin:10px; max-width:40px; max-height:40px" src="https://w7.pngwing.com/pngs/168/443/png-transparent-flutter-logo-flutter-software-logo-social-media-logo-logo-technology-logo-3d-icon.png" width="70px"/>
 
 <img style="margin:10px;max-width:40px; max-height:40px" src="https://dwglogo.com/wp-content/uploads/2017/09/1460px-React_logo.png" width="70px"/>
