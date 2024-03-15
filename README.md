@@ -13,14 +13,14 @@
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwol32547&theme=horizon"/></div>
 
 <div class="container" style="display:flex;">
-<img style="margin:10px; max-width:40px; max-height:40px" src="https://w7.pngwing.com/pngs/168/443/png-transparent-flutter-logo-flutter-software-logo-social-media-logo-logo-technology-logo-3d-icon.png" />
+<img style="margin:10px; max-width:40px; max-height:40px" src="https://w7.pngwing.com/pngs/168/443/png-transparent-flutter-logo-flutter-software-logo-social-media-logo-logo-technology-logo-3d-icon.png" width="70px"/>
 
-<img style="margin:10px;max-width:40px; max-height:40px" src="https://dwglogo.com/wp-content/uploads/2017/09/1460px-React_logo.png" width="40px"/>
+<img style="margin:10px;max-width:40px; max-height:40px" src="https://dwglogo.com/wp-content/uploads/2017/09/1460px-React_logo.png" width="70px"/>
 
-<img style="margin:10px;max-width:40px; max-height:40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPWXoi7cy3HEsFJ8kqj7FQisLz0IBP9r7hW-4RysSgRZKI0BLQm46I0nn-PwKi2112FaU&usqp=CAU"/>
+<img style="margin:10px;max-width:40px; max-height:40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPWXoi7cy3HEsFJ8kqj7FQisLz0IBP9r7hW-4RysSgRZKI0BLQm46I0nn-PwKi2112FaU&usqp=CAU" width="70px" />
 
-<img style="margin:10px;max-width:40px; max-height:40px" src="https://vistaran-tech.s3.ap-south-1.amazonaws.com/wp-content/uploads/2022/05/13104926/nodejs-logo.png"/>
+<img style="margin:10px;max-width:40px; max-height:40px" src="https://vistaran-tech.s3.ap-south-1.amazonaws.com/wp-content/uploads/2022/05/13104926/nodejs-logo.png" width="70px" />
 
-<img style="margin:10px;max-width:40px; max-height:40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpGgNSPRVm39iH4cj6zG4IgW_wA6GWdxscSdCNJ43dHw&s" height="30" width="100"/>
+<img style="margin:10px;max-width:40px; max-height:40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpGgNSPRVm39iH4cj6zG4IgW_wA6GWdxscSdCNJ43dHw&s" height="30" width="70px" />
 
 </div>
