@@ -15,7 +15,7 @@
 <div class="container" style="display:flex;">
 <img style="margin:10px; max-width:40px; max-height:40px" src="https://w7.pngwing.com/pngs/168/443/png-transparent-flutter-logo-flutter-software-logo-social-media-logo-logo-technology-logo-3d-icon.png" />
 
-<img style="margin:10px;max-width:40px; max-height:40px" src="https://dwglogo.com/wp-content/uploads/2017/09/1460px-React_logo.png"/>
+<img style="margin:10px;max-width:40px; max-height:40px" src="https://dwglogo.com/wp-content/uploads/2017/09/1460px-React_logo.png" width="40px"/>
 
 <img style="margin:10px;max-width:40px; max-height:40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPWXoi7cy3HEsFJ8kqj7FQisLz0IBP9r7hW-4RysSgRZKI0BLQm46I0nn-PwKi2112FaU&usqp=CAU"/>
 
